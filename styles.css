@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+body {
+    display: block;
+    max-width: 800px;
+    width: 100%;
+    margin: 8px auto;
+    background-color: rgb(173, 173, 235);
+}
+
+img {
+    align-content: center;
+    width: 75%;
+    height: 75%;
+    padding: 0;
+}
+
+.menu:hover {
+    color: rgb(0, 238, 255);
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
